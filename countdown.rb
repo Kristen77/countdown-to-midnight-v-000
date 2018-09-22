@@ -10,7 +10,7 @@ end
 
 puts "HAPPY NEW YEAR!"
 
-def countdown_with_sleep
+def countdown_with_sleep(n)
   while n > 0
    n -= 1 
   sleep (5)
