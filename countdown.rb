@@ -8,7 +8,6 @@ def countdown(n)
   "HAPPY NEW YEAR!"
 end
 
-puts "HAPPY NEW YEAR!"
 
 def countdown_with_sleep(n)
   while n > 0
